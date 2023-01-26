@@ -5,7 +5,7 @@ Timex images are snapshot images averaged every 10 or 15 minutes into a single i
 Time-stack images are intensity values saved at each time step at a selected array of pixels from snapshots [2].
 
 Most of the parameters needed to understand the African coastal environments can be derived simultaneously: wave characteristics (CAMS_N2_Parameters and
-CAMS_N2_Direction), water level variations (derived form bathymetry, see[3,4]) and beach morphology (CAMS_N2_Shoreline for shoreline, see also https://github.com/gregsolo/T-Cor-Toolbox for bathymetry).
+CAMS_N2_Direction), water level variations (derived form bathymetry, see[3,4]) and beach morphology (CAMS_N2_Shoreline for shoreline, see https://github.com/gregsolo/T-Cor-Toolbox for bathymetry).
 
 References
 [1] Holland, K. T., Holman, R. A., Lippmann, T. C., Stanley, J., & Plant, N. Practical use of video imagery in nearshore oceanographic field studies.
